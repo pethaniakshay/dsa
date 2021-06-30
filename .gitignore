@@ -1,0 +1,13 @@
+*.out
+*.o
+*.i
+*.s
+Debug/
+Release/
+build/
+bin/
+.settings
+.cproject
+.project
+.metadata
+
